@@ -1,2 +1,2 @@
 # MACHINE-LEARNING-AND-STATISTICS
-Assessments from the MACHINE LEARNING AND STATISTICS course  
+This repository was created to submit the assessments and activities from MACHINE LEARNING AND STATISTICS subject part of the Data Analysis Higher Diploma course from ATU.  
